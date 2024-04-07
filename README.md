@@ -14,21 +14,22 @@ npx pod-install
 ## To start the application:
 
 For Android: `yarn android` or `npm run android`
+
 For iOS: `yarn ios` or `npm run ios`
 
 ## Structure
 
-`android/`: This directory contains all the Android-specific code and build files
-`ios/`: This directory contains all the iOS-specific code and build files
-`lang/`: This directory contains the language files for internationalization.
-`src/`: This directory contains all the implementation of the React Native code.
-_ `component`: This directory contains all the reusable components used in the application.
-_ `hook`: This directory contains all the custom hooks used in the application.
-_ `screen`: This directory contains all the screens of the application.
-_ `store`: This directory contains all the store related code.
-_ `types`: This directory contains all the types used in the application.
-_ `Navigation.tsx`: This file contains the navigation configuration for the application.
-`App.tsx`: This is the main entry point of the React Native application.
+- `android/`: This directory contains all the Android-specific code and build files
+- `ios/`: This directory contains all the iOS-specific code and build files
+- `lang/`: This directory contains the language files for internationalization.
+- `src/`: This directory contains all the implementation of the React Native code.
+  - `component`: This directory contains all the reusable components used in the application.
+  - `hook`: This directory contains all the custom hooks used in the application.
+  - `screen`: This directory contains all the screens of the application.
+  - `store`: This directory contains all the store related code.
+  - `types`: This directory contains all the types used in the application.
+  - `Navigation.tsx`: This file contains the navigation configuration for the application.
+- `App.tsx`: This is the main entry point of the React Native application.
 
 ## Approach
 
