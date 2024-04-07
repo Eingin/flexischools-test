@@ -1,0 +1,23 @@
+{
+  "translation": {
+    "tabs": {
+      "trending": "Trending",
+      "search": "Search",
+      "feedback": "Feedback"
+    },
+    "search": {
+      "placeholder": "Search GIFs"
+    },
+    "feedback": {
+      "successTitle": "Feedback submitted",
+      "successBody": "Thanks for your feedback!",
+      "nameMinLength": "Must be at least 3 characters",
+      "emailInvalid": "Must enter a valid address",
+      "nameField": "Name",
+      "emailField": "Email",
+      "ratingField": "Rating",
+      "feedbackField": "Feedback",
+      "submit": "Submit"
+    }
+  }
+}
