@@ -5,8 +5,8 @@
 To run the application, you need to have Node.js, npm or yarn, and React Native CLI installed on your machine. Once you have these prerequisites, you can clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/eingin/FlexischoolsTest.git
-cd FlexischoolsTest
+git clone https://github.com/Eingin/flexischools-test.git
+cd flexischools-test
 yarn
 npx pod-install
 ```
